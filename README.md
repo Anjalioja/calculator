@@ -14,4 +14,8 @@ This project is perfect for beginners to understand how to create desktop applic
 - 🚀 Beginner-friendly code structure
 
 ---
+## 📸 Screenshots
+Here is the preview of the calculator:
+
+![Calculator GUI](calculator_screenshot.png)
 
